@@ -1,0 +1,2 @@
+# rs-bot
+Discord bot 🦀
